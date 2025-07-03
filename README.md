@@ -15,5 +15,8 @@ Microsoft PowerBI Desktop - used for data extraction visual analysis and dashboa
 
 Power Query Editor - used for advanced data cleaning and calculations
 
+![Bonus Rule](https://github.com/user-attachments/assets/f88b7bce-f65d-47a4-8269-d1d32fdd0f0a)
+
+
 
 

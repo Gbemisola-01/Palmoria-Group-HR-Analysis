@@ -11,12 +11,45 @@ To identify key areas within the business that could spring up issues and addres
 ## THE PROCESS
 
 ### Tools used & Techniques
-Microsoft PowerBI Desktop - used for data extraction visual analysis and dashboard
+Microsoft PowerBI Desktop - Used for Data Extraction (ETL), Visual Analysis and Dashboard
 
-Power Query Editor - used for advanced data cleaning and calculations
+Power Query Editor - Used for Advanced Data Cleaning and Calculations
 
-![Bonus Rule](https://github.com/user-attachments/assets/f88b7bce-f65d-47a4-8269-d1d32fdd0f0a)
 
+### Steps Taken
+
+![Bonus Rule Raw Data](https://github.com/user-attachments/assets/eeaa2630-d6cc-4229-a2aa-be59158973e3)
+
+
+
+
+* Get the First Dataset from Excel (Bonus Rules) and then click on Transform Data.
+* On the Power Query Editor, right click on Department and click on Unpivot other Columns.
+* Rename the columns: Attribute - Ratings, Values - Bonus %                      
+* Then Load your Data.
+
+  
+
+
+* Get the Second Dataset from Text\CSV (Employee Data) and then load unto the Power Query Editor.
+* Click on the drop down on Department and Salary Columns respectively, and uncheck NULL.
+* Right click on Gender and click on Replace Values to find Blanks and replace with UNKNOWN.
+  
+
+* Merge Datasets together by clicking on similar columns.
+* Click on the drop down on the new column created and uncheck Select All, and check the Bonus Rules %
+* Right click on the Bonus % column and click Replace Values to find NULL and replace with 0
+  
+
+* Add Custom Column for Bonus, =([Salary]*[Bonus Rules %])
+* Add Custom Column for New Salary, =([Salary]+[Bonus])
+* Add Condidtional Column for Salary Band
+
+
+* Then Load Data for Visualization on the Table View (Canvas)
+
+
+  
 
 
 

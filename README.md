@@ -77,49 +77,170 @@ HR Analytics for real-world insights on diversity, equity, and compliance
 
 ## Outcome
 The investigation into gender inequality and pay structure within Palmoria Group revealed critical disparities and compliance concerns. After deep analysis of the HR data provided by the CHRO, the following key outcomes emerged:
-1. Gender Distribution Insights
-- Organization-wide: A significant gender imbalance was found, with male employees making up over 70% of the workforce.
-- By Region:
-  • Region A had the highest concentration of male employees.
-  • Region C showed relatively better gender balance.
-- By Department:
-  • Engineering and Production departments were male-dominated.
-  • HR and Customer Support had a more even gender distribution or a female majority.
-2. Performance Ratings by Gender
-- Male employees were more frequently rated as 'High Performers'.
-- A disproportionate number of females were rated as 'Average' or below.
-- Potential bias in performance evaluation is suspected.
-3. Gender Pay Gap Analysis
-- A clear gender pay gap exists across all three regions.
-- Male employees consistently earned more than females in the same roles.
-- Departments of concern: Engineering, Finance, and Management.
-- Region A had the largest overall pay disparity, while Region C had the least.
-4. Minimum Salary Compliance
-- Regulation requires a minimum salary of $90,000.
-- Many employees fall below this benchmark, particularly in Region B.
-- Most employees are in the $50,000–$70,000 and $70,000–$90,000 bands.
-- Few employees earn above $90,000, indicating a compliance issue.
-5. Bonus Allocation & Total Compensation
-- Bonuses allocated based on performance ratings.
-- High performers received the highest bonuses.
-- Total compensation revealed further gender disparity.
-- Region A had the highest total payout; Region C had the lowest.
 
 
-## Key Recommendations
-1. Implement Gender Equality Training and review performance appraisal criteria for bias.
-2. Revise Compensation Structures to address gender pay gaps and ensure equity.
-3. Raise all employee salaries below $90,000 to meet regulatory compliance.
-4. Monitor HR Data Continuously using HR analytics dashboards.
-5. Develop DEI Policies and set measurable diversity targets.
+1. Gender Distribution Analysis
+
+Overall Gender Distribution
+
+Out of a total of 875 employees, gender was identified as follows:
+
+- Female: 337 (38.5%)
+
+- Male: 312 (35.7%)
+
+- Unknown: 226 (25.8%) – grouped as Undisclosed in this report.
+
+By Region
+
+- Kaduna: Highest female representation (female > male)
+
+- Abuja: Near parity between male and female
+
+- Lagos: More male employees, with a significant portion of undisclosed gender
+
+By Department
+
+Departments such as Research & Development, Procurement, and Accounting show better gender balance, while Training, Marketing, and Legal are more female-dominant. However, departments like Product Management and Engineering have very low female participation.
+
+2. Performance Rating by Gender
+
+Performance ratings were categorized into Very Good, Good, Average, and Poor:
+
+- Males: Received the majority of Very Good and Good ratings
+
+- Females: Received more Average ratings (420 out of total average ratings)
+
+This points to a possible rating bias, where men are more frequently rated higher despite relatively even representation.
+
+3. Salary Structure and Gender Pay Gap Analysis
+
+Average Salary by Gender
+
+- Male: $79.32K (35.09%)
+
+- Female: $72.45K (32.84%)
+
+- Undisclosed: $72.25K (31.96%)
+
+This reveals a clear pay gap, with males earning $6.87K more on average than females.
+
+Average Salary by Department
+
+- Highest Paid: Training ($78K), Business Development ($77K)
+
+- Lowest Paid: Legal ($71K), Product Management ($72K)
+
+Most departments fall below the new regulatory threshold of $90,000.
+
+Average Salary by Location
+
+- Kaduna: $76K
+
+- Lagos: $74K
+
+- Abuja: $72K
+
+Kaduna leads with the highest average salary, yet none of the regions meet the $90K compliance mark.
+
+4. Regulatory Compliance & Salary Band Analysis
+
+Compliance with $90K Regulation
+
+- Compliant Employees: 607 (69.4%)
+
+- Non-Compliant: 268 (30.6%)
+
+The organization does not fully comply with the new regulation requiring all employees to earn a minimum of $90K.
+
+Salary Band Distribution
+
+- A majority of employees fall within the $70K – $80K band.
+
+- Very few are in the $90K – $100K or higher ranges.
+
+This pattern suggests a uniformly low salary structure, potentially creating dissatisfaction among staff.
+
+5. Bonus Allocation Based on Performance Ratings
+
+- Average Bonus: $2.51K
+
+Bonus allocations are performance-linked. Using the given rules (not shown on dashboard), we assigned:
+
+  - Very Good: Highest bonus rate
+
+  - Good: Moderate bonus
+
+  - Average and Poor: Minimal or no bonus
+
+These allocations result in a widening gap when total compensation is considered.
+
+Total Compensation = Base Salary + Bonus
+
+- Males not only earn higher base salaries but also receive higher bonuses due to better performance ratings, exacerbating gender pay inequality.
 
 
-## Conclusion
-My analysis brought clarity to the root causes of the gender inequality crisis at Palmoria. The data-driven insights and visualizations empowered leadership to take concrete, actionable steps toward fairness, equality, and compliance — safeguarding the company’s brand, morale, and international expansion goals.
+
+
+Key Insights Summary
+
+Insight Area	Finding
+
+Gender Distribution	Female representation is strong but uneven across departments/regions
+
+Performance Ratings	Males dominate higher performance ratings
+
+Salary Comparison	Males earn ~$7K more than females on average
+
+Regulation Compliance	30.6% of employees earn below mandated $90K
+
+Pay Band	Majority fall within $70K–$80K band
+
+Total Compensation	Males benefit disproportionately from bonuses
 
 
 
-  
+Recommendations
+
+1. Gender Equality Programs
+
+- Implement internal awareness and mentorship programs to promote female advancement.
+
+- Investigate causes of rating disparities and conduct bias training for managers.
 
 
+
+2. Review Performance Appraisal Process
+
+- Revisit appraisal frameworks to ensure fairness and transparency.
+
+- Establish a gender-balanced review committee to evaluate performance objectively.
+
+
+
+3. Salary Adjustment Plan
+
+- Develop a phased plan to raise salaries below $90K.
+
+- Introduce salary bands with defined progression criteria.
+
+
+
+4. Compliance Enforcement
+
+- Mandate a review of all salaries to ensure full compliance.
+
+- Set quarterly salary compliance targets.
+
+
+
+5. Data Transparency
+
+- Encourage employees to update missing gender data.
+
+- Improve HR record-keeping and reporting processes.
+
+Conclusion
+
+Palmoria Group has a dedicated workforce and strong female presence. However, significant gender-based disparities in ratings and compensation could undermine morale and brand reputation if left unaddressed. This report provides management with a roadmap to create a more equitable and compliant workplace.
 
